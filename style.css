@@ -1,0 +1,42 @@
+.title {
+    background-color: orange;
+    font-size: 30px;
+    text-align: center;
+}
+
+.title1 {
+    font-family: VN-NTime, "Times New Roman";
+    font-size: 30px;
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+
+}
+
+.ngay {
+    border-style: groove;
+    text-align: center;
+    font-family: "Times New Roman", VN-NTime;
+    width: 200px; height: 50px;
+    font-size: 30px;
+}
+sub {
+    color: black;
+    font-size: 15px;
+}
+#clor1 {
+    font-size: 30px;
+    color: black;
+    background-color: red;
+}
+
